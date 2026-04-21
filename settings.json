@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TeoBoxPvp.aternos.me",
-    "port": 27586,
+    "ip": "TeoBoxPvp.aternos.me:61682",
+    "port": 61682,
     "version": "",
     "try-creative": false
   },
